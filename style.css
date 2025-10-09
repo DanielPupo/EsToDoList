@@ -1,0 +1,7 @@
+/* style.css */
+
+/* Define o estilo para o estado 'concluído' no Dark Mode */
+.task-completed .task-text {
+    text-decoration: line-through;
+    color: #4b5563; /* Gray-600 */
+}
